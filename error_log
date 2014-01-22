@@ -1,0 +1,15 @@
+[06-Feb-2013 22:42:13] PHP Parse error:  syntax error, unexpected ')' in /home/kgrdlaqk/public_html/jesusr.es/ajaxSubmit.php on line 94
+[06-Feb-2013 22:45:12] PHP Parse error:  syntax error, unexpected ')' in /home/kgrdlaqk/public_html/jesusr.es/ajaxSubmit.php on line 94
+[06-Feb-2013 22:45:14] PHP Parse error:  syntax error, unexpected ')' in /home/kgrdlaqk/public_html/jesusr.es/ajaxSubmit.php on line 94
+[06-Feb-2013 22:45:14] PHP Parse error:  syntax error, unexpected ')' in /home/kgrdlaqk/public_html/jesusr.es/ajaxSubmit.php on line 94
+[06-Feb-2013 22:49:24] PHP Parse error:  syntax error, unexpected ')' in /home/kgrdlaqk/public_html/jesusr.es/ajaxSubmit.php on line 94
+[06-Feb-2013 22:49:27] PHP Parse error:  syntax error, unexpected ')' in /home/kgrdlaqk/public_html/jesusr.es/ajaxSubmit.php on line 94
+[07-Feb-2013 12:30:49] PHP Parse error:  syntax error, unexpected ')' in /home/kgrdlaqk/public_html/jesusr.es/ajaxSubmit.php on line 94
+[07-Feb-2013 12:31:14] PHP Parse error:  syntax error, unexpected ')' in /home/kgrdlaqk/public_html/jesusr.es/ajaxSubmit.php on line 94
+[14-Feb-2013 12:23:13] PHP Parse error:  syntax error, unexpected ')' in /home/kgrdlaqk/public_html/jesusr.es/ajaxSubmit.php on line 94
+[14-Feb-2013 13:04:39] PHP Parse error:  syntax error, unexpected ')' in /home/kgrdlaqk/public_html/jesusr.es/ajaxSubmit.php on line 94
+[14-Feb-2013 13:04:42] PHP Parse error:  syntax error, unexpected ')' in /home/kgrdlaqk/public_html/jesusr.es/ajaxSubmit.php on line 94
+[14-Feb-2013 13:04:42] PHP Parse error:  syntax error, unexpected ')' in /home/kgrdlaqk/public_html/jesusr.es/ajaxSubmit.php on line 94
+[14-Feb-2013 13:04:43] PHP Parse error:  syntax error, unexpected ')' in /home/kgrdlaqk/public_html/jesusr.es/ajaxSubmit.php on line 94
+[14-Feb-2013 13:04:43] PHP Parse error:  syntax error, unexpected ')' in /home/kgrdlaqk/public_html/jesusr.es/ajaxSubmit.php on line 94
+[14-Feb-2013 13:07:11] PHP Fatal error:  Call to undefined function  ↪checkdnsrr() in /home/kgrdlaqk/public_html/jesusr.es/ajaxSubmit.php on line 65

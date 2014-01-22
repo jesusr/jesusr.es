@@ -1,0 +1,16 @@
+﻿/* TEAM */
+  Proffesional: Jesús R Peinado (jesusrpeinado | jesusr)
+  Site: http://jesusr.es
+  Twitter: @jesusrpeinado
+  Location: Jaén, Andalucía, Spain
+
+/* THANKS */
+  José Ramón Balsas 
+  Jesús Manuel García Muñoz
+  Eugenio Martínez Cámara
+
+/* SITE */
+  Last Update: 2013/02/20
+  Standards: HTML5, CSS3, PHP
+  Components: jQuery
+  
